@@ -2,9 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://huangjie0515.github.io/</link>
+    <link>http://huanjie0515.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://huangjie0515.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://huanjie0515.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abort</title>
+      <link>http://huanjie0515.github.io/abort/</link>
+      <pubDate>Thu, 29 Oct 2020 13:28:29 +0800</pubDate>
+      
+      <guid>http://huanjie0515.github.io/abort/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

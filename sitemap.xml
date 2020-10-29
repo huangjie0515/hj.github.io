@@ -3,15 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://huangjie0515.github.io/categories/</loc>
+    <loc>http://huanjie0515.github.io/abort/</loc>
+    <lastmod>2020-10-29T13:28:29+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://huangjie0515.github.io/</loc>
+    <loc>http://huanjie0515.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://huangjie0515.github.io/tags/</loc>
+    <loc>http://huanjie0515.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>http://huanjie0515.github.io/tags/</loc>
   </url>
   
 </urlset>
